@@ -1,4 +1,4 @@
-"""Unittests for dfluct
+"""Unittests for noise
 
 Run tests using
 $python -m unittest discover -t . -v
